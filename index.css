@@ -7,7 +7,7 @@
 
 #content-1::before{
     content: '';
-    background: url(/images/bg-hero-desktop.svg) no-repeat center center/cover var(--font-colour-1) ;
+    background: url(images/bg-hero-desktop.svg) no-repeat center center/cover var(--font-colour-1) ;
     height: 99.7vh;
     z-index: -1;
     position: absolute;
@@ -180,7 +180,7 @@
 .fa-logo::before{
     content: '';
     position: absolute;
-    background: url(/images/logo.svg) no-repeat;
+    background: url(images/logo.svg) no-repeat;
     height: 50px;
     width: 50px;
     margin-left: -45px;
@@ -189,7 +189,7 @@
 .fa-location::before{
     content: '';
     position: absolute;
-    background: url(/images/icon-location.svg) no-repeat;
+    background: url(images/icon-location.svg) no-repeat;
     height: 50px;
     width: 50px;
     margin-left: -45px;
@@ -198,7 +198,7 @@
 .fa-call::before{
     content: '';
     position: absolute;
-    background: url(/images/icon-phone.svg) no-repeat;
+    background: url(images/icon-phone.svg) no-repeat;
     height: 50px;
     width: 50px;
     margin-left: -45px;
@@ -207,7 +207,7 @@
 .fa-email::before{
     content: '';
     position: absolute;
-    background: url(/images/icon-email.svg) no-repeat;
+    background: url(images/icon-email.svg) no-repeat;
     height: 50px;
     width: 50px;
     margin-left: -45px;
